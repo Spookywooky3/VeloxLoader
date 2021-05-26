@@ -6,5 +6,4 @@ Velox Loader is a user authentication application written in c++. It authenticat
 * MongoDB
 * conan package manager
 ## Installation
-conan install poco/1.10.1
-npm install express
+npm install
